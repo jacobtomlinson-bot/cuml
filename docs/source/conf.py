@@ -59,6 +59,7 @@ extensions = [
     "sphinx_markdown_tables",
     "sphinx_copybutton",
     "sphinx_design",
+    "sphinx_llm.txt",
 ]
 
 breathe_projects = {
